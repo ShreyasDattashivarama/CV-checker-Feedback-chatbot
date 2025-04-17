@@ -20,6 +20,5 @@
 - Streamlit
 - PDFMiner (for resume parsing)
 - OpenAI GPT-3.5 (for feedback generation)
-- Optional: spaCy/NLTK for future improvements
 
 ---
